@@ -1,6 +1,6 @@
 {
 	"scenarios":{
-		"NDC01":{"color":"rgba(134,18,134,1)","desc":"Current levels of all higher reduction targets for 2030 are further increased by 10%","type":"enhanced"},
+		"NDC01":{"color":"rgba(134,18,134,1)","desc":"Test Current levels of all higher reduction targets for 2030 are further increased by 10%","type":"enhanced"},
 		"NDC02":{"color":"rgba(252,43,157,1)","desc":"Current levels of all lower reduction targets for 2030 are further decreased by 10%","type":"delayed"},
 		"GMP01":{"color":"rgba(184,25,59,1)","desc":"GMP is additional to the near-term reductions targets declared in NDCs","type":"enhanced"},
 		"GMP02":{"color":"rgba(252,100,58,1)","desc":"All countries continue to reduce CH4 emissions after 2030 to achieve a further 30% reduction by 2100 from 2030 levels","type":"enhanced"},
