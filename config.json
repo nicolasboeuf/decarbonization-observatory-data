@@ -95,7 +95,7 @@
 			"title":"Combined impact of enhanced or delayed pledges",
 			"subtitle":"Visualize the impact of combined impact of enhanced or delayed pledges on the reference scenario",
 			"legend-short":"Visualize the combined impact of enhanced or delayed scenarios comparing to base",
-			"legend-long":"Country-specific scenarios of the future evolution of emissions based on national climate pledges. Red dots represent national climate pledges of each country. A simple mathematical function was applied to extend emissions scenarios from the most recent emission level to the 2030 target level, mid-century net-zero target level and beyond.",
+			"legend-long":"Country-specific scenarios of the future evolution of emissions based on national climate pledges. Red dots represent national climate pledges of each country. A simple mathematical function was applied to extend emissions scenarios from the most recent emission level to the 2030 target level, mid-century net-zero target level and beyond."
 		}
 	}
 }
