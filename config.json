@@ -92,7 +92,7 @@
 			"main":"Parties to the Paris Agreement will revise their Nationally Determined Contributions following the first Global Stocktake concluded in December 2023. To assess the impact of potential future climate pledges, we propose a simple, transparent framework for developing emission and temperature scenarios by country.<br><br>We show that current pledges with unconditional targets lead to global warming of 1.96 (1.39-2.6)°C by 2100. Further warming could be limited through i) commitment to mid-century net-zero targets for all countries and earlier net-zero targets for developed countries, ii) <a href='https:mylink.com'>enhancement of the Global Methane Pledge</a>, and iii) ambitious implementation of the Glasgow Leaders’ Declaration on Forests and Land Use.<br><br>Our analysis further shows that overshooting 1.5°C is unavoidable, even with supplementary climate engineering strategies, suggesting the need for strategies to limit further overshoot and ultimately reduce the warming towards 1.5°C."
 		},
 		"combined-impact":{
-			"title":"Combined impact of enhanced or delayed pledges",
+			"title":"TEST Combined impact of enhanced or delayed pledges",
 			"subtitle":"Visualize the impact of combined impact of enhanced or delayed pledges on the reference scenario",
 			"legend-short":"Visualize the combined impact of enhanced or delayed scenarios comparing to base",
 			"legend-long":"Country-specific scenarios of the future evolution of emissions based on national climate pledges. Red dots represent national climate pledges of each country. A simple mathematical function was applied to extend emissions scenarios from the most recent emission level to the 2030 target level, mid-century net-zero target level and beyond."
