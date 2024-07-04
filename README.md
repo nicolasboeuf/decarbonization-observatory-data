@@ -21,3 +21,8 @@ When your are on the page displaying the files list, click on "Add file" and sel
 Drag and drop the new files
 
 Make sure that "Commit directly to the master branch" is selected and click on "Commit changes".
+
+## Troubleshooting
+
+If you have any doubt or one change is not working, please copy-paste the json file here : https://jsonlint.com/
+Click on validate json and copy-paste the result in github
