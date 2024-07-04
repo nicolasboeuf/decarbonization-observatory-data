@@ -22,6 +22,12 @@ Drag and drop the new files
 
 Make sure that "Commit directly to the master branch" is selected and click on "Commit changes".
 
+## HTML in texts
+
+In order to add a line-break in texts, use a double tag such as : `<br><br>`
+
+In order to add a link in texts, use a link tag as such (please use single quote in the href attribute) : `<a href='http://mylink.com'>Text of the link</a>`
+
 ## Troubleshooting
 
 If you have any doubt or one change is not working, please copy-paste the json file here : https://jsonlint.com/
