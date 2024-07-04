@@ -1,5 +1,7 @@
 # How to update the website
 
+Target url : https://nicolasboeuf.fr/carbon-pledges/
+
 ## Update chart settings
 
 From here, you can change pledges color and description as well as the list of countries.
