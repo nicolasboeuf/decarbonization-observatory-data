@@ -114,6 +114,6 @@
 			"subtitle":"Visualize global temperature projections under current pledges",
 			"legend-short":"Global temperature projections based on country-specific emissions scenarios.",
 			"legend-long":"Country-specific scenarios of the future evolution of emissions based on national climate pledges. Red dots represent national climate pledges of each country. A simple mathematical function was applied to extend emissions scenarios from the most recent emission level to the 2030 target level, mid-century net-zero target level and beyond."
-		},
+		}
 	}
 }
