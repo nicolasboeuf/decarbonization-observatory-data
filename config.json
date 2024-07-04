@@ -2,7 +2,7 @@
 	"scenarios":{
 		"NDC01":{
 			"color":"rgba(134,18,134,1)",
-			"desc":"TEST Current levels of all higher reduction targets for 2030 are further increased by 10%",
+			"desc":"Current levels of all higher reduction targets for 2030 are further increased by 10%",
 			"type":"enhanced"
 		},
 		"NDC02":{
